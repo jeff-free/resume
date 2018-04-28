@@ -1,23 +1,20 @@
-# Files in the config/locales directory are used for internationalization
-# and are automatically loaded by Rails. If you want to use locales other
-# than English, add the necessary files in this directory.
-#
-# To use the locales, use `I18n.t`:
-#
-#     I18n.t 'hello'
-#
-# In views, this is aliased to just `t`:
-#
-#     <%= t('hello') %>
-#
-# To use a different locale, set it with `I18n.locale`:
-#
-#     I18n.locale = :es
-#
-# This would use the information in config/locales/es.yml.
-#
-# To learn more, please read the Rails Internationalization guide
-# available at http://guides.rubyonrails.org/i18n.html.
-
 en:
-  hello: "Hello world"
+  intro:
+    title1: Stay Passionate
+    title2: Jeffrey Huang
+    title3: Rails Developer since 2014 / Motorcycle Roadtrip traveller
+  about:
+    sub_heading: Ruby on Rails / Motorcycle Roadtrip
+    desc1: With Bachelor degree from National Sun Yat-Sen University, I had decided to become a  programmer with the passion of software development since 2014
+    desc2: "I've involved serveral types of the projects, such as sport SAAS / E-commerce / Education startups / Crowd-funding. My experiences of web development includes:"
+  skill:
+    web_dev_title: Web Development
+    web_dev_desc: TDD with Ruby on Rails for back-end, and HTML, CSS and Javascript for front-end
+    pm_title: Project Management
+    pm_desc: I'm familiar with Scrum and Kanban tools like Jira and Trello.
+    whatever_title: Communication
+    whatever_desc: I've got quite a bit experiences as a freelencer for web-development and as a backpacker, so I'm able to make efficient communications both in English and Mandarin
+  goal:
+    paragraph1_html: I just decided to bought a motorcycle for a roadtrip from San Fransisco, US to Ushuaia, Argentina, known as "The end of the world". Started from 1st, Nov, 2016 to 5th, Dec, 2017,
+                     It was a <a class="wanderers-link" href="https://wanderers.tw/users/jeffrey/journeys/1-漫遊記" target="_blank">33,000 kms journey crossing 14 countries.</a>。
+    paragraph2: The beautiful story has ended. After wandering the vast world all the way on the road, it's time to move on!
