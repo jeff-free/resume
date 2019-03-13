@@ -6,7 +6,8 @@ en:
   about:
     sub_heading: Ruby on Rails / Motorcycle Roadtrip
     desc1: With Bachelor degree from National Sun Yat-Sen University, I had decided to become a  programmer with the passion of software development since 2014
-    desc2: "I've involved serveral types of the projects, such as sport SAAS / E-commerce / Education startups / Crowd-funding. My experiences of web development includes:"
+    desc2: 'Familiar with:'
+    desc3: "I've involved serveral types of the projects, such as sport SAAS / E-commerce / Education startups / Crowd-funding with sufficient experiences across product-UX-design, product architecuring, development and deployment. My experiences of web development includes:"
   skill:
     web_dev_title: Web Development
     web_dev_desc: TDD with Ruby on Rails for back-end, and HTML, CSS and Javascript for front-end
